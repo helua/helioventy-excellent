@@ -1,23 +1,23 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Eleventy Excellent',
+  siteName: 'Artysta Kombinator',
   siteDescription:
     'Eleventy starter based on the workflow suggested by buildexcellentwebsit.es',
   siteType: 'Person', // schema
-  locale: 'en_EN',
-  lang: 'en',
-  skipContent: 'Skip to content',
+  locale: 'pl_PL',
+  lang: 'pl',
+  skipContent: 'do treści',
   author: {
-    name: 'Lene Saile', // i.e. Lene Saile - page / blog author's name. Must be set.
+    name: 'Andrzej Holnicki', // i.e. Lene Saile - page / blog author's name. Must be set.
     avatar: '/favicon.png',
-    email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
-    website: 'https://www.lenesaile.com' // i.e. https.://www.lenesaile.com - the personal site of the author
+    email: 'ndrzjhl@gmail.com', // i.e. hola@lenesaile.com - email of the author
+    website: 'https://helio.webd.pl' // i.e. https.://www.lenesaile.com - the personal site of the author
   },
   creator: {
-    name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
-    email: 'hola@lenesaile.com',
-    website: 'https://www.lenesaile.com',
-    social: 'https://front-end.social/@lene'
+    name: 'Andrzej Holnicki', // i.e. Lene Saile - creator's (developer) name.
+    email: 'ndrzjhl@gmail.com',
+    website: 'https://helio.webd.pl',
+    social: 'https://www.instagram.com/andrzejhelio/'
   },
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
   themeBgColor: '#FBFBFB', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
@@ -26,23 +26,23 @@ module.exports = {
     'Visible content: Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es', // alt text for default meta image
   blog: {
     // this is for the rss feed
-    name: 'My Web Development Blog',
+    name: 'Andrzej Holnicki - webdesign blog',
     description:
-      'Tell the word what you are writing about in your blog. It will show up on feed readers.',
+      'Piszę o moich front-endowych projektach.',
     tagSingle: 'Tag',
     tagPlural: 'Tags',
-    tagMore: 'More tags:',
+    tagMore: 'Więcej tagów:',
     // feed links are looped over in the head.
     feedLinks: [{title: 'Atom Feed', url: '/feed.xml', type: 'application/atom+xml'}],
     pagination: 'Blog',
-    paginationPage: 'Page',
-    paginationPrevious: 'Previous',
-    paginationNext: 'Next'
+    paginationPage: 'Strona',
+    paginationPrevious: 'Poprzednia',
+    paginationNext: 'Następna'
   },
   details: {
-    aria: 'section controls',
-    expand: 'expand all',
-    collapse: 'collapse all'
+    aria: 'kontrolki sekcji',
+    expand: 'rozwiń wszystko',
+    collapse: 'zwiń wszystko'
   },
   navigation: {
     ariaTop: 'Main',
@@ -51,10 +51,10 @@ module.exports = {
     closedText: 'Menu'
   },
   themeSwitch: {
-    title: 'Theme',
-    light: 'light',
-    dark: 'dark',
-    initial: 'select'
+    title: 'Motyw',
+    light: 'jasny',
+    dark: 'ciemny',
+    initial: 'wybierz'
   },
   greenweb: {
     // this goues into src/common/greenweb.njk
@@ -73,7 +73,7 @@ module.exports = {
   viewRepo: {
     // this is for the view/edit on github link. The value in the package.json will be pulled in.
     allow: true,
-    infoText: 'View this page on GitHub'
+    infoText: 'Podejrzyj ten projekt na GitHubie'
   },
   easteregg: true
 };

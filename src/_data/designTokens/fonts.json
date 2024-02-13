@@ -5,12 +5,13 @@
     {
       "name": "Display",
       "description": "Display font stack for headings and large text.",
-      "value": ["Redhat", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+      "value": ["Trickster", "Redhat", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
     },
     {
       "name": "Base",
       "description": "Base font stack for body text.",
       "value": [
+        "Trickster",
         "Figtree",
         "Optima",
         "Candara",

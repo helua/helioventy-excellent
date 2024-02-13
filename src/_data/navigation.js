@@ -1,33 +1,33 @@
 module.exports = {
   top: [
     {
-      text: 'About',
+      text: 'O mnie',
       url: '/about/'
     },
     {
-      text: 'Get started',
-      url: '/get-started/'
+      text: 'Portfolio',
+      url: '/porfolio/'
     },
     {
-      text: 'Built with',
-      url: '/built-with/'
+      text: 'Tools',
+      url: '/tools/'
     },
     {
       text: 'Blog',
       url: '/blog/page-0/'
     },
     {
-      text: 'Style guide',
+      text: 'Design tokens',
       url: '/styleguide/'
     }
   ],
   bottom: [
     {
-      text: 'Imprint',
+      text: 'Stopka',
       url: '/imprint/'
     },
     {
-      text: 'Privacy',
+      text: 'Prywatność',
       url: '/privacy/'
     }
   ]

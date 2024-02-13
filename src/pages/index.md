@@ -1,17 +1,24 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+title: 'Andrzej ☀ Holnicki - webdesigner'
+description: 'Ministrona oparta o starter Eleventy Excellent korzystający z nowoczesnego CSS, płynnej typografii i spacingu, elastycznego szablonu. Pierwotny pomysłodawca szablonu Andy Bell podejście określił jako "mentorowanie" przeglądarce raczej niż mikrozarządzanie jej działaniami, w celu uzyskania doskonałego efektu na dosłownie każdym urządzeniu końcowym. '
 layout: 'home'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: 'Portfolio'
+  intro: "Poczytaj więcej o moich jamstackowych projektach"
 ---
 
-## An Eleventy starter
+## Doskonały front-end (nie)istnieje
 
-This [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://mastodon.social/@andy@bell.bz) talk 'Be the browser’s mentor, not its micromanager' and its companion website buildexcellentwebsit.es.
+Ten projekt powstaje z użyciem Static Site Generator [Eleventy](https://www.11ty.dev/) i startera [Eleventy Excellent](https://eleventy-excellent.netlify.app/) zainspirowanego wykładem [Andiego Bell'a](https://mastodon.social/@andy@bell.bz) zatytułowanego 'Be the browser’s mentor, not its micromanager'.
 
-In his words, it's about hinting the browser rather than micromanaging it, using progressive enhancement, CSS layout, fluid type & spacing, as well as modern CSS features.
+Ministrona korzysta z nowoczesnego CSS-a, metodologii Cube CSS, idealnie płynnej typografii i spacingu, elastycznych szablonów bloków treści oraz Tailwind CSS jako managera design tokenów.
 
-This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.
+Powyższe podejście zapewnia idealnie responsywne wyświetlanie strony, niezależnie od urządzenia, przeglądarki i sytuacji.
+
+## Jamstack czyli Composable
+
+W swoich projektach korzystam z metodologii [Jamstack](https://jamstack.org/) znanej również jako Composable, zakładającej, że należy oddzielać warstwę doświadczenia webowego od systemów danych oraz logiki biznesowej, zwiększając elastyczność, skalowalność, wydajność i możliwość łatwego rozwijania ekosystemu aplikacji webowej.
+
+Zewnętrzne API doskonale sprawdzają sie jako substytut własnej aplikacji backendowej wprowadzając logikę biznesowądo aplikacji (np. [Commerce Layer](https://commercelayer.io/) jako zaplecze ecommerce). Headless CMS służy do nawodnienia aplikacji treścią (np. [Sanity](https://sanity.io/) jako baza informacji o produktach w sklepie).
+

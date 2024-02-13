@@ -1,11 +1,12 @@
-email: hola@eyourmail.lol
+email: ndrzjhl@gmail.com
 address: |-
-  Organization name
-  Your street
-  12345, city
-  Tel: +34 928231911
+  Andrzej Helio Holnicki
+  Promyka 3/81
+  01-604, Warszawa
+  Tel: +48 793818143
 platforms:
-  github: 'https://github.com/madrilene/eleventy-excellent'
-  mastodon: 'https://front-end.social/@lene'
-  bluesky: 'https://bsky.app/profile/lenesaile.com'
-  kofi: 'https://ko-fi.com/lenesaile'
+  github: 'https://github.com/helua'
+  instagram: 'https://www.instagram.com/andrzejhelio'
+  # mastodon: 'https://front-end.social/@lene'
+  # bluesky: 'https://bsky.app/profile/lenesaile.com'
+  kofi: 'https://ko-fi.com/andrzejhelio'
