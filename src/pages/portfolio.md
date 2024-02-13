@@ -27,6 +27,6 @@ The [blog posts](/blog/page-0/) also explain / show some features that aren't co
 
 {% set itemList = collections.docs %}
 
-<!-- details
+<!-- details -->
 
-{% include 'components/details.njk' %} -->
+{% include 'components/details.njk' %} 
