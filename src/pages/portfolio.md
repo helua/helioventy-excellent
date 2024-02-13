@@ -1,5 +1,5 @@
 ---
-title: Get started
+title: Portfolio
 permalink: /portfolio/index.html
 description: 'You can use this starter as a template for your blog and you are ready to go! But there are some adjustments you have to make.'
 layout: page
@@ -10,7 +10,7 @@ preloads:
   crossorigin: true
 ---
 
-You can use this starter as a template for your blog and you are ready to go! But there are some **adjustments you have to make**.
+You can use this inny test starter as a template for your blog and you are ready to go! But there are some **adjustments you have to make**.
 
 - `src/_data/meta.js` - sets different "hard coded" text values all over the template, you can change the language, etc.
 - edit your personal details and social media in `src/_data/personal.yaml`.
@@ -27,6 +27,6 @@ The [blog posts](/blog/page-0/) also explain / show some features that aren't co
 
 {% set itemList = collections.docs %}
 
-<!-- details -->
+<!-- details
 
-{% include 'components/details.njk' %}
+{% include 'components/details.njk' %} -->

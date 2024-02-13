@@ -73,7 +73,7 @@ module.exports = {
   viewRepo: {
     // this is for the view/edit on github link. The value in the package.json will be pulled in.
     allow: true,
-    infoText: 'Podejrzyj ten projekt na GitHubie'
+    infoText: 'Podejrzyj tę stronę na GitHubie'
   },
-  easteregg: true
+  easteregg: false
 };
