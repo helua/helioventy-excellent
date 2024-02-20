@@ -2,25 +2,25 @@
   {
     "name": "tipiKnapa",
     "description": "craft e-commerce",
-    "screenshot": "./src/assets/images/tools/tipiknapa.png",
+    "screenshot": "./src/assets/images/tools/sass.png",
     "link": "https://tipiknapa.pl/"
   },
   {
     "name": "ANDIAMO",
     "description": "duet reżyserski ",
-    "screenshot": "./src/assets/images/tools/andiamo.png",
+    "screenshot": "./src/assets/images/tools/sass.png",
     "link": "https://andiamo.works/"
   },
   {
     "name": "Jakubowskie Pluta i wspólnicy",
     "description": "wizytówka kancelarii",
-    "screenshot": "./src/assets/images/tools/j&p.png",
+    "screenshot": "./src/assets/images/tools/sass.png",
     "link": "https://jakubowski-pluta.pl/"
   },
   {
     "name": "Magda Faliszewska Pilates",
     "description": "Studio Pilates Mirków",
-    "screenshot": "./src/assets/images/tools/pilates.png",
+    "screenshot": "./src/assets/images/tools/sass.png",
     "link": "https://pilatesmirkow.pl/"
   },
   {
