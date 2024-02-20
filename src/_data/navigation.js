@@ -6,7 +6,7 @@ module.exports = {
     },
     {
       text: 'Portfolio',
-      url: '/porfolio0/'
+      url: '/porfolio/'
     },
     {
       text: 'Tools',
