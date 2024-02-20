@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Artysta Kombinator',
+  siteName: 'Andrzej Holnicki - webdesigner',
   siteDescription:
-    'Eleventy starter based on the workflow suggested by buildexcellentwebsit.es',
+    'Filozofia na UW, teraz tworzę WWW',
   siteType: 'Person', // schema
   locale: 'pl_PL',
   lang: 'pl',

@@ -1,8 +1,44 @@
 [
   {
-    "name": "Refugio Libertad",
-    "description": "Organización de trabajadores y trabajadoras de la economía popular que habitamos en pequeños pueblos y zonas rurales de la provincia de Córdoba (Argentina).",
-    "screenshot": "./src/assets/images/screenshots/refugiolibertad.png",
-    "link": "https://refugio.libre.org.ar"
+    "name": "Jamstack",
+    "description": "Jamstack",
+    "screenshot": "./src/assets/images/tools/jamstack.png",
+    "link": "https://jamstack.org"
+  },
+  {
+    "name": "Angular",
+    "description": "Angular",
+    "screenshot": "./src/assets/images/tools/angular.png",
+    "link": "https://angular.io"
+  },
+  {
+    "name": "Material",
+    "description": "Material",
+    "screenshot": "./src/assets/images/tools/material.png",
+    "link": "https://m3.material.io/"
+  },
+  {
+    "name": "Netlify",
+    "description": "Netlify",
+    "screenshot": "./src/assets/images/tools/netlify.png",
+    "link": "https://netlify.app"
+  },
+  {
+    "name": "Sass",
+    "description": "Sass",
+    "screenshot": "./src/assets/images/tools/sass.png",
+    "link": "https://sass-lang.com/"
+  },
+  {
+    "name": "JavaScript",
+    "description": "JavaScript",
+    "screenshot": "./src/assets/images/tools/js5.png",
+    "link": ""
+  },
+  {
+    "name": "GIT",
+    "description": "GIT",
+    "screenshot": "./src/assets/images/tools/git.png",
+    "link": ""
   }
 ]

@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: 'Andrzej ☀ Holnicki - webdesigner'
+title: 'Hello world!'
 description: 'Ministrona oparta o starter Eleventy Excellent korzystający z nowoczesnego CSS, płynnej typografii i spacingu, elastycznego szablonu. Pierwotny pomysłodawca szablonu Andy Bell podejście określił jako "mentorowanie" przeglądarce raczej niż mikrozarządzanie jej działaniami, w celu uzyskania doskonałego efektu na dosłownie każdym urządzeniu końcowym. '
 layout: 'home'
 blog:

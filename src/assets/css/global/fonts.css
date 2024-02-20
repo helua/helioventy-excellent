@@ -32,6 +32,13 @@
     src: local(''),
       url('/assets/fonts/figtree/figtree-mediumitalic.woff2') format('woff2');
   }
+  @font-face {
+    font-family: Trickster;
+    font-style: normal;
+    font-display: swap;
+    font-weight: normal;
+    src: local(''), url(/assets/fonts/trickster/Trickster-Reg.otf) format('otf');
+  }
 }
 
 /* Set up for modern browsers, all weights */
