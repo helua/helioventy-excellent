@@ -1,8 +1,8 @@
 ---
-title: 'Andiamo vimeo feed'
-description: 'Strona duetu reżyzerskiego ANDIAMO, prezentująca playlistę video z utworami reżyserów w formie designerskiego feedu miniaturek.'
+title: 'Craftowy e-commerce tipiKnapa'
+description: 'Strona biznesowa tipiKnapa z wbudowanym e-sklepem. Sanity headless CMS jako content base o produktach, Commerce Layer zapleczem sklepowym.'
 date: 2024-02-20
-tags: ['vimeo', 'feed', 'JAMstack', 'Angular', 'video', 'headless CMS']
+tags: ['commercelayer', 'feed', 'JAMstack', 'Angular', 'video', 'headless CMS']
 ---
 
 🎥 Www powstała w Angularze z elementami Material Design, a jej trzon stanowi feed wyselekcjonowanych filmów pobieranych z Vimeo poprzez API. Oprócz tego klient zapragnął mieć podstronę "behind the scenes", gdzie w losowym trybie obejrzycie mozaikę zdjęć z planu oraz "about", która przestawia filozofię pracy, osiągnięcia artystów oraz nieregularną siatkę zdjęć ukazujących duet w różnych codziennych sytuacjach. Strona ma dwie wersje językowe - polską i angielską.

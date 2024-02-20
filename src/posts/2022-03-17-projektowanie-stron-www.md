@@ -1,8 +1,8 @@
 ---
 title: 'Projektowanie stron internetowych'
 description: 'Projektowanie stron www Warszawa'
-date: 2021-07-17
-tags: []
+date: 2022-03-17
+tags: ['webdesign', 'SEO', 'responsive']
 ---
 
 Tworzenie stron www Warszawa - jestem freelance webdesignerem i zaprojektuję dla Ciebie stronę internetową: wizytówka, e-shop, blog, portal internetowy. Podstawowa konfiguracja SEO. Responsive web design.
@@ -14,7 +14,7 @@ Cena projektu zależy od indywidualnej wyceny dla klienta i obejmuje również h
 Chcesz stworzyć stronę www tanio, szybko i profesjonalnie? Trafiłeś pod właściwy adres.
 
 {% for repository in github  %}
-{% if repository.stargazers_count > 0 %}
+{% if repository.stargazers_count > 1 %}
 
 ## [{{ repository.name }}]({{ repository.html_url }})
 
