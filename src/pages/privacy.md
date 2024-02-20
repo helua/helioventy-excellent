@@ -6,6 +6,15 @@ permalink: /privacy/index.html
 description: I respect the EU General Data Protection Regulation (GDPR). This policy document explains how I collect and handle any information you provide to me.
 layout: page
 ---
+## "Docs" lol
+
+<!-- loop docs -->
+
+{% set itemList = collections.docs %}
+
+<!-- details -->
+
+{% include 'components/details.njk' %} 
 
 I respect the EU General Data Protection Regulation (GDPR) and this policy document explains how I collect and handle any information you provide to me.
 

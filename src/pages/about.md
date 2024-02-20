@@ -11,5 +11,5 @@ layout: page
 > Filozofia na UW.
 Teraz tworzę www. 
 
-[Napisz do mnie]()
-[::sms::](tel:(+48)793818143)
+[✉ Napisz do mnie](mailto:ndrzjhl@gmail.com)
+[☎ Call me](tel:(+48)793818143)

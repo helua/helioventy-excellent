@@ -1,0 +1,44 @@
+[
+  {
+    "name": "tipiKnapa",
+    "description": "craft e-commerce",
+    "screenshot": "./src/assets/images/tools/tipiknapa.png",
+    "link": "https://tipiknapa.pl/"
+  },
+  {
+    "name": "ANDIAMO",
+    "description": "duet reżyserski ",
+    "screenshot": "./src/assets/images/tools/andiamo.png",
+    "link": "https://andiamo.works/"
+  },
+  {
+    "name": "Jakubowskie Pluta i wspólnicy",
+    "description": "wizytówka kancelarii",
+    "screenshot": "./src/assets/images/tools/j&p.png",
+    "link": "https://jakubowski-pluta.pl/"
+  },
+  {
+    "name": "Magda Faliszewska Pilates",
+    "description": "Studio Pilates Mirków",
+    "screenshot": "./src/assets/images/tools/pilates.png",
+    "link": "https://pilatesmirkow.pl/"
+  },
+  {
+    "name": "Sass",
+    "description": "Sass",
+    "screenshot": "./src/assets/images/tools/sass.png",
+    "link": "https://sass-lang.com/"
+  },
+  {
+    "name": "JavaScript",
+    "description": "JavaScript",
+    "screenshot": "./src/assets/images/tools/js5.png",
+    "link": ""
+  },
+  {
+    "name": "GIT",
+    "description": "GIT",
+    "screenshot": "./src/assets/images/tools/git.png",
+    "link": ""
+  }
+]

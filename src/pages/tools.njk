@@ -19,7 +19,7 @@ grid:
     <h2></h2>
     <ul class="grid" role="list" style="--gutter: var(--space-xl) var(--space-m)">
       <!-- you find tha data for that in src/_data/builtwith.json -->
-      {% for site in builtwith | reverse %}
+      {% for site in tools | reverse %}
 
       <li class="grid-card | text-step-min-1">
         {% eleventyImage site.screenshot, site.name, null, "lazy", null, sizes, widths %}
