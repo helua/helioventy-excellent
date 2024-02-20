@@ -1,7 +1,7 @@
 ---
 title: 'Post with an image '
 description: "Eleventy's own build-time image transformations. Find more info on11ty.dev/docs/plugins/image/ and edit settings in config-folder."
-date: 2022-10-12
+date: 2021-10-12
 tags: ['image', 'feature']
 image: './src/assets/images/gallery/asturias-1.jpg'
 alt: 'A picturesque valley showcasing majestic mountains and lush forests, creating a serene and captivating landscape'

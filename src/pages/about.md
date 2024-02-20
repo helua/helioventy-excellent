@@ -1,20 +1,15 @@
 ---
-title: About
+title: O mnie
 permalink: /about/index.html
-description: 'Eleventy Excellent is inspired bythe companion website of Andy Bell’s talk "Be the browser’s mentor, not its micromanager".'
+description: 'Andrzej Helio Holnicki jestem webdesignerem z Warszawy".'
 layout: page
-youtube: true
 ---
 
-Based on the [companion website](https://buildexcellentwebsit.es/) of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'. It takes over a core functionality: Using Tailwind CSS to generate CSS variables based on design tokens.
+## creative web-design
+## w morzu możliwości
 
-Like buildexcellentwebsit.es, this starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template, ideal for personal websites and other small projects.
+> Filozofia na UW.
+Teraz tworzę www. 
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
-
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-
-## Watch the talk
-
-{% youtube 'JqnMI1AXl6w', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+[Napisz do mnie]()
+[::sms::](tel:(+48)793818143)
