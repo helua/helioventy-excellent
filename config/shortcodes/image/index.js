@@ -11,6 +11,23 @@ const stringifyAttributes = attributeMap => {
     .join(' ');
 };
 
+const gifShortcode = async (
+  formats = ['gif'],
+) => {
+  const metadata = await Image(src, {
+    formats: [...formats],
+    urlPath: '/assets/images/',
+    outputDir: './dist/assets/images/',
+    sharpOptions: {
+      animated: true
+    },
+    filenameFormat: (id, src, width, format, options) => {
+      const extension = path.extname(src);
+      const name = path.basename(src, extension);
+      return `${name}-${width}w.${format}`;
+    }
+  })
+}
 const imageShortcode = async (
   src,
   alt = '',
@@ -19,17 +36,13 @@ const imageShortcode = async (
   className,
   sizes = '90vw',
   widths = [440, 880, 1024, 1360],
-  formats = ['gif', 'avif', 'webp', 'jpeg'],
+  formats = ['avif', 'webp', 'jpeg'],
 ) => {
   const metadata = await Image(src, {
     widths: [...widths],
     formats: [...formats],
     urlPath: '/assets/images/',
     outputDir: './dist/assets/images/',
-    sharpOptions: {
-      animated: true
-    },
-    hashLength: 8,
     filenameFormat: (id, src, width, format, options) => {
       const extension = path.extname(src);
       const name = path.basename(src, extension);
@@ -83,4 +96,4 @@ const imageShortcode = async (
   return htmlmin.minify(imageElement, {collapseWhitespace: true});
 };
 
-module.exports = imageShortcode;
+module.exports = imageShortcode, gifShortcode;
