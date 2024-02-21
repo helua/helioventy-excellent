@@ -59,7 +59,7 @@ ciekawa funkcja
 
 ## Komponenty
 
-| Technlogia | Zastosowanie                                                                                                                                    |
+| Technlogia | Zastosowanie |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Angular| front-end|
 | Vimeo        | video API |
