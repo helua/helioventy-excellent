@@ -28,7 +28,7 @@ gallery:
 
 🎥 Www powstała w Angularze z elementami Material Design, a jej trzon stanowi feed wyselekcjonowanych filmów pobieranych z Vimeo poprzez API. Oprócz tego klient zapragnął mieć podstronę "behind the scenes", gdzie w losowym trybie obejrzycie mozaikę zdjęć z planu oraz "about", która przestawia filozofię pracy, osiągnięcia artystów oraz nieregularną siatkę zdjęć ukazujących duet w różnych codziennych sytuacjach. Strona ma dwie wersje językowe - polską i angielską.  
 
-{% eleventyGif "./src/assets/images/projects/andiamo5.gif", "Jasmine nightshades blooming in July" %}
+{% eleventyImage "./src/assets/images/projects/andiamo5.webp", "Jasmine nightshades blooming in July" %}
 
 🎨 Za identyfikację wizualną ANDIAMO i design strony odpowiedzialny jest grafik [David Błażewicz](https://davidblazewicz.com/). Wprowadzanie jego szczegółowej wizji w życie było jednym z przyjemniejszych doświadczeń front-endowych z jakimi się do tej pory mierzyłem.
 
