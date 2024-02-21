@@ -26,13 +26,13 @@
   {
     "name": "ZWR",
     "description": "event agency",
-    "screenshot": "./src/assets/images/projects/zwr.png",
+    "screenshot": "./src/assets/images/projects/ZWR.png",
     "link": "https://zwr.waw.pl/"
   },
   {
     "name": "Zielona Autoszkoła",
     "description": "szkoła jazdy [szablon]",
-    "screenshot": "./src/assets/images/projects/js5.png",
+    "screenshot": "./src/assets/images/projects/ZA.png",
     "link": "https://zielona-autoszkola.netlify.app/"
   },
   {
