@@ -10,6 +10,10 @@ const stringifyAttributes = attributeMap => {
     })
     .join(' ');
 };
+const gifShortcode = await sharp(
+  src,
+  { animated: true })
+  .toFile('animated.gif');
 
 const imageShortcode = async (
   src,
@@ -26,7 +30,7 @@ const imageShortcode = async (
     formats: [...formats],
     urlPath: '/assets/images/',
     outputDir: './dist/assets/images/',
-    sharpOptions: {
+    sharpWebpOptions: {
       animated: true
     },
     filenameFormat: (id, src, width, format, options) => {
@@ -145,4 +149,4 @@ const imageShortcode = async (
 //   return htmlmin.minify(imageElement, {collapseWhitespace: true});
 // };
 
-module.exports = imageShortcode;
+module.exports = imageShortcode, gifShortcode;
