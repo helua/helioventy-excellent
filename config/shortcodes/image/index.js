@@ -26,6 +26,9 @@ const imageShortcode = async (
     formats: [...formats],
     urlPath: '/assets/images/',
     outputDir: './dist/assets/images/',
+    sharpOptions: {
+      animated: true
+    },
     filenameFormat: (id, src, width, format, options) => {
       const extension = path.extname(src);
       const name = path.basename(src, extension);
