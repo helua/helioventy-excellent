@@ -27,7 +27,7 @@ W sierpniu wybrałem się na wakacje do Gdyni, gdzie spotkałem starego znajomeg
 🛒Sklepik działa na autorskim front-endzie stworzonym w Angularze z pomocą elementów Materiala, bazą produktów osadzoną w headless CMS Sanity oraz warstwą e-commerce od Commerce Layer. Struktura aplikacji wpisuje się w gorący trend Jamstack Developers - tworzenia kompletnych serwisów za pomocą niezależnych od siebie, wymienialnych elementów. Największe zalety tego typu rozwiązania, w mojej ocenie, to łatwość rozwoju, szybkość i bezpieczeństwo. 
 
 
-![Close-up with unfocused background of a vibrant large blue butterfly gracefully perched on a delicate flower amidst lush green grass](/assets/images/gallery/asturias-4.jpg)
+![Close-up with unfocused background of a vibrant large blue butterfly gracefully perched on a delicate flower amidst lush green grass](/assets/images/projects/andiamo5.webp)
 
 📷Za zdjęcia odpowiedzialny jest Bartek Wiski, a nad całym kontentem czuwa [THE INOMHUS](https://theinomhus.com) 🙌
 
