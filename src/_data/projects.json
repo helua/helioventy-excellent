@@ -2,43 +2,37 @@
   {
     "name": "tipiKnapa",
     "description": "craft e-commerce",
-    "screenshot": "./src/assets/images/projects/tipiknapa.png",
+    "screenshot": "./src/assets/images/projects/tipiknapa1.jpg",
     "link": "https://tipiknapa.pl/"
   },
   {
     "name": "ANDIAMO",
     "description": "duet reżyserski ",
-    "screenshot": "./src/assets/images/projects/ANDIAMO.svg",
+    "screenshot": "./src/assets/images/screenshots/andiamo1.jpg",
     "link": "https://andiamo.works/"
   },
   {
     "name": "Jakubowskie Pluta i wspólnicy",
     "description": "wizytówka kancelarii",
-    "screenshot": "./src/assets/images/projects/j&p.svg",
+    "screenshot": "./src/assets/images/projects/j&p.jpg",
     "link": "https://jakubowski-pluta.pl/"
   },
   {
     "name": "Magda Faliszewska Pilates",
     "description": "Studio Pilates Mirków",
-    "screenshot": "./src/assets/images/projects/pilates_mirkow.png",
+    "screenshot": "./src/assets/images/projects/pilates1.jpg",
     "link": "https://pilatesmirkow.pl/"
   },
   {
     "name": "ZWR",
     "description": "event agency",
-    "screenshot": "./src/assets/images/projects/ZWR.png",
+    "screenshot": "./src/assets/images/projects/zwr1.jpg",
     "link": "https://zwr.waw.pl/"
-  },
-  {
-    "name": "Zielona Autoszkoła",
-    "description": "szkoła jazdy [szablon]",
-    "screenshot": "./src/assets/images/projects/ZA.png",
-    "link": "https://zielona-autoszkola.netlify.app/"
   },
   {
     "name": "INOMHUS",
     "description": "skate school",
-    "screenshot": "./src/assets/images/projects/INOMHUS.png",
+    "screenshot": "./src/assets/images/projects/skate1.jpg",
     "link": "https://skate-school.netlify.app/"
   }
 ]
