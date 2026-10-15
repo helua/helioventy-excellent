@@ -1,11 +1,17 @@
 [
   {
-    "name": "tipiKnapa",
-    "description": "craft e-commerce",
-    "screenshot": "./src/assets/images/projects/tipiknapa1.jpg",
-    "link": "https://tipiknapa.pl/"
+    "name": "ZWR",
+    "description": "event agency",
+    "screenshot": "./src/assets/images/projects/zwr1.jpg",
+    "link": "https://zwr.waw.pl/"
   },
   {
+    "name": "INOMHUS",
+    "description": "skate school",
+    "screenshot": "./src/assets/images/projects/skate1.jpg",
+    "link": "https://skate-school.netlify.app/"
+  },
+   {
     "name": "ANDIAMO",
     "description": "duet reżyserski ",
     "screenshot": "./src/assets/images/projects/andiamo1.jpg",
@@ -23,16 +29,16 @@
     "screenshot": "./src/assets/images/projects/pilates1.jpg",
     "link": "https://pilatesmirkow.pl/"
   },
-  {
-    "name": "ZWR",
-    "description": "event agency",
-    "screenshot": "./src/assets/images/projects/zwr1.jpg",
-    "link": "https://zwr.waw.pl/"
+    {
+    "name": "The Reel Friends",
+    "description": "vimeo artist catalogue",
+    "screenshot": "./src/assets/images/projects/thereelfriends.jpg",
+    "link": "https://thereelfriends.pl/"
   },
   {
-    "name": "INOMHUS",
-    "description": "skate school",
-    "screenshot": "./src/assets/images/projects/skate1.jpg",
-    "link": "https://skate-school.netlify.app/"
+    "name": "Bazar DZIAŁA",
+    "description": "craft e-commerce",
+    "screenshot": "./src/assets/images/projects/tipiknapa1.jpg",
+    "link": "https://bazardziala.pl/"
   }
 ]

@@ -32,7 +32,7 @@ W sierpniu wybrałem się na wakacje do Gdyni, gdzie spotkałem starego znajomeg
 
 ## Link do strony
 
-https://tipiknapa.pl/ 
+https://bazardziala.pl/ 
 
 ## Kod
 
