@@ -8,7 +8,7 @@ gallery:
     alt: 'A picturesque valley showcasing majestic mountains and lush forests, creating a serene and captivating landscape'
     caption: 'Inside the Somiedo Natural Park, Asturias'
 ---
-
+![Close-up with unfocused background of a vibrant large blue butterfly gracefully perched on a delicate flower amidst lush green grass](/assets/images/projects/thereelfriends.jpg)
 
 
 Karola odezwała się do mnie przez wspólnego znajomego. Celem było ogarnięcie strony z portfolio talentów z agencji The REEL Friends tak, żeby strona była lekka i właścicielka mogła łatwo samo dodawać treści.
@@ -19,7 +19,7 @@ Vimeo feed korzysta z API portalu, tam też siedzą animated video thumbnails cz
 
 ## Link do strony
 
-https://thereelfriends.pl/ 
+https://thereelfriends.com/ 
 
 ## Kod
 
