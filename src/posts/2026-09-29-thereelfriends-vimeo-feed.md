@@ -3,6 +3,10 @@ title: 'The REEL Friends - czyli baza talentów'
 description: 'Wizytówka połączona z showcasem video z Vimeo dla talentów agencji The Reel Friends.'
 date: 2024-02-22
 tags: ['Scully', 'headless CMS', 'JAMstack', 'Angular', 'headless CMS', 'instagram', 'vimeo']
+gallery:
+  - image: ./src/assets/images/projects/thereelfriends.jpg
+    alt: 'A picturesque valley showcasing majestic mountains and lush forests, creating a serene and captivating landscape'
+    caption: 'Inside the Somiedo Natural Park, Asturias'
 ---
 
 
@@ -37,7 +41,6 @@ creditsy filmów są również pobierane z vimeo i obrabiane na froncie
     } else return 'n/d';
   }
 
-/* by David Darnes */
 ```
 
 ## Komponenty

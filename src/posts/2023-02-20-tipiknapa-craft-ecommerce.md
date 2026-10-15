@@ -47,7 +47,6 @@ ciekawa funkcja
   bottom: 0;
 }
 
-/* by David Darnes */
 ```
 
 ## Komponenty
